@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{BE17E23F-4EEA-4E77-81C4-D204A412F0B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation.iOS/Controllers/Prospects/ProspectLogsViewController.cs">
+    <Files>
+      <File FileName="Presentation.iOS/Controllers/Prospects/ProspectViewController.cs" Line="40" Column="36" />
+      <File FileName="Presentation.iOS/Controllers/Prospects/ProspectsViewController.cs" Line="85" Column="25" />
+      <File FileName="Presentation.iOS/Controllers/Prospects/ProspectLogsViewController.cs" Line="52" Column="10" />
+      <File FileName="Presentation.iOS/Controllers/_Shared/Cell/TableView/ProspectLogViewCell.cs" Line="24" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Presentation.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4E1E9EB7-2F59-43D1-9A52-DB790D6AEEBB" />
+</Properties>

@@ -1,0 +1,17 @@
+Common/bin/*
+Common/obj/Debug/*
+Common/obj/*
+*.DS_Store
+packages/*
+Presentation.iOS/bin/*
+Presentation.iOS/obj/*
+Infraestructure/bin/*
+Infraestructure/obj/*
+Components/*
+Constants/bin/Debug/Constants.dll.mdb,Constants/bin/Release/Constants.dll.mdb
+Constants/obj/*
+Constants/bin/*
+Domain/bin/*
+Domain/obj/*
+Configuration/bin/*
+Configuration/obj/*
